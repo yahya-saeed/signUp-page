@@ -22,7 +22,7 @@ main {
 }
 
 .left-logo {
-  background-image: url("imgg.jpg");
+  background-image: url("img.jpg");
   width: 450px;
   height: 100%;
   object-fit: cover;
