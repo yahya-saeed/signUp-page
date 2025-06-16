@@ -29,6 +29,16 @@ main {
   background-size: cover;
 }
 
+.photo-credit {
+  color: #f7f7f7;
+  position: relative;
+  top: 72%;
+  bottom: 0;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+
 .left-logo h1 {
   color: #f7f7f7;
   font-size: 100px;
