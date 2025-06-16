@@ -128,6 +128,7 @@ input::placeholder {
 
 .signup-button {
   margin-top: 30px;
+  border-top: 1px solid#265c073d;
 }
 
 .signup-button button {
